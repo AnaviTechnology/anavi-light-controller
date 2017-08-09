@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 78L33-RESCUE-anavi-light-controller
+#
+DEF 78L33-RESCUE-anavi-light-controller U 0 30 N Y 1 F N
+F0 "U" 150 -196 50 H V C CNN
+F1 "78L33-RESCUE-anavi-light-controller" 0 200 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+S -200 -150 200 150 0 1 0 N
+X VI VI -400 50 200 R 40 40 1 1 I
+X VO VO 400 50 200 L 40 40 1 1 w
+X GND GND 0 -250 100 U 40 40 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

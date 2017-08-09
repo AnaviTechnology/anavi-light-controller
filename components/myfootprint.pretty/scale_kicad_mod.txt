@@ -1,0 +1,1 @@
+./scale_kicad_mod.py 0.05 < logo1.kicad_mod > logo_s.kicad_mod
