@@ -2,4 +2,5 @@
   (lib (name ESP8266)(type KiCad)(uri "$(KIPRJMOD)/components/ESP8266.pretty")(options "")(descr ""))
   (lib (name w_conn_misc)(type KiCad)(uri "$(KIPRJMOD)/components/w_conn_misc.pretty")(options "")(descr ""))
   (lib (name smd-semi)(type KiCad)(uri "$(KIPRJMOD)/components/smd-semi.pretty")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)/logo.pretty")(options "")(descr ""))
 )
