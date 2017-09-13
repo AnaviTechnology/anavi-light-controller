@@ -1092,8 +1092,8 @@
   (gr_text "Rev. 1.1 (c) 2017" (at 104.013 105.791) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (gr_text "ANAVI Light Controller" (at 106.934 103.886) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.2)))
+  (gr_text "ANAVI Light Controller" (at 108.585 103.886) (layer F.SilkS)
+    (effects (font (size 1.2 1.2) (thickness 0.25)))
   )
 
   (segment (start 88.435 76.327) (end 85.04936 76.327) (width 0.5) (layer F.Cu) (net 1))
