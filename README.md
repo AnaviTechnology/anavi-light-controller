@@ -1,11 +1,13 @@
-# Anavi Light Contoroller
+# ANAVI Light Contoroller
 
-Anavi Light Controller is an open source hardware board for controlling 12V RGB LED strip powered by free and open source software. It features:
+ANAVI Light Controller is an open source hardware board for controlling 12V RGB LED strip powered by free and open source software. It features:
 
 * Slot for RGB LED strip
 * 12V input for the RGB LED strip
 * Slots for up to 3 plug and play I2C sensors for temperature, barometric pressure, humidity and light
 * UART (Universal asynchronous receiver/transmitter) pins for debugging
+
+Open source software for ANAVI Light Controller written as an Arduino sketch is also available at GitHub](https://github.com/AnaviTechnology/anavi-light-controller-sw).
 
 # License
 
