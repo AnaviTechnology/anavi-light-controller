@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory plots/))
+      (outputdirectory plots/anavi-light-controller-r1.3/))
   )
 
   (net 0 "")
